@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "uuid": "b2f95716-4740-4e5e-9b5f-1be93a7427b9",
+    "username": "john_doe98",
+    "email": "john.doe98@example.com",
+    "createdAt": "2024-01-05T14:32:07Z",
+    "profession": "Software Engineer",
+    "city": "New York",
+    "country": "USA"
+  },
+  {
+    "id": 2,
+    "uuid": "8f7c26b0-c8ff-450b-8f76-2995b4d2c557",
+    "username": "jane_smith32",
+    "email": "jane.smith32@example.com",
+    "createdAt": "2023-12-01T10:22:18Z",
+    "profession": "Graphic Designer",
+    "city": "London",
+    "country": "UK"
+  },
+  {
+    "id": 3,
+    "uuid": "ff4235db-94ef-44ba-8043-6decbdb2a95b",
+    "username": "lucas_brown89",
+    "email": "lucas.brown89@example.com",
+    "createdAt": "2023-11-18T09:19:33Z",
+    "profession": "Architect",
+    "city": "Sydney",
+    "country": "Australia"
+  },
+  {
+    "id": 4,
+    "uuid": "e9a72bb3-bd74-44c0-bd6c-bbb4f8b62c1f",
+    "username": "sophia_martin01",
+    "email": "sophia.martin01@example.com",
+    "createdAt": "2023-11-02T13:25:47Z",
+    "profession": "Marketing Manager",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": 5,
+    "uuid": "e2b846f1-fb45-4f34-90ab-58a21e45d01f",
+    "username": "michael_jones72",
+    "email": "michael.jones72@example.com",
+    "createdAt": "2023-10-22T15:13:11Z",
+    "profession": "Data Scientist",
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  {
+    "id": 6,
+    "uuid": "b34b65da-4d24-4ff2-a516-b88a4e6b63c3",
+    "username": "emily_davis03",
+    "email": "emily.davis03@example.com",
+    "createdAt": "2023-09-11T16:42:57Z",
+    "profession": "Lawyer",
+    "city": "New York",
+    "country": "USA"
+  },
+  {
+    "id": 7,
+    "uuid": "d9771b1c-63b8-4640-b7d4-7766975d6cbb",
+    "username": "daniel_wilson34",
+    "email": "daniel.wilson34@example.com",
+    "createdAt": "2023-08-15T08:29:22Z",
+    "profession": "Product Manager",
+    "city": "Manchester",
+    "country": "UK"
+  },
+  {
+    "id": 8,
+    "uuid": "d59d9b9f-354f-4040-9b9f-5e1f35109c6f",
+    "username": "olivia_miller55",
+    "email": "olivia.miller55@example.com",
+    "createdAt": "2023-07-09T14:19:08Z",
+    "profession": "Teacher",
+    "city": "Mumbai",
+    "country": "India"
+  },
+  {
+    "id": 9,
+    "uuid": "43fa78c6-c157-43c1-bb39-8817ad795cf5",
+    "username": "jacob_smith40",
+    "email": "jacob.smith40@example.com",
+    "createdAt": "2023-06-05T11:23:44Z",
+    "profession": "Civil Engineer",
+    "city": "Tokyo",
+    "country": "Japan"
+  },
+  {
+    "id": 10,
+    "uuid": "835b68c8-0707-4c95-9575-89b087fdcc67",
+    "username": "ava_johnson22",
+    "email": "ava.johnson22@example.com",
+    "createdAt": "2023-05-19T17:56:12Z",
+    "profession": "Financial Analyst",
+    "city": "São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "id": 11,
+    "uuid": "4fd5a354-0b5c-4bb9-b3e2-4d7d6b3f68b9",
+    "username": "william_brown12",
+    "email": "william.brown12@example.com",
+    "createdAt": "2023-04-23T09:12:53Z",
+    "profession": "Doctor",
+    "city": "Denver",
+    "country": "USA"
+  },
+  {
+    "id": 12,
+    "uuid": "a72c53d8-f4a2-475a-b0cd-35d20bc051a3",
+    "username": "mia_white88",
+    "email": "mia.white88@example.com",
+    "createdAt": "2023-03-29T13:15:40Z",
+    "profession": "Chef",
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "id": 13,
+    "uuid": "86a725f3-d90f-47be-86e2-b4a2c9e267e3",
+    "username": "sebastian_taylor71",
+    "email": "sebastian.taylor71@example.com",
+    "createdAt": "2023-02-18T10:42:29Z",
+    "profession": "Musician",
+    "city": "Las Vegas",
+    "country": "USA"
+  },
+  {
+    "id": 14,
+    "uuid": "8cbac10c-5e13-438b-b072-72a1229f6bda",
+    "username": "amelia_smith11",
+    "email": "amelia.smith11@example.com",
+    "createdAt": "2023-01-30T14:38:21Z",
+    "profession": "Nurse",
+    "city": "Bristol",
+    "country": "UK"
+  },
+  {
+    "id": 15,
+    "uuid": "5fa2b2cc-bd4e-4cc4-88b4-f198c4c1d550",
+    "username": "ethan_moore25",
+    "email": "ethan.moore25@example.com",
+    "createdAt": "2023-01-10T12:25:56Z",
+    "profession": "Journalist",
+    "city": "Melbourne",
+    "country": "Australia"
+  },
+  {
+    "id": 16,
+    "uuid": "ae9b5a4e-e5f2-401b-b6f7-9d0fa8e9d0b0",
+    "username": "lucy_jones63",
+    "email": "lucy.jones63@example.com",
+    "createdAt": "2022-12-22T16:12:05Z",
+    "profession": "HR Manager",
+    "city": "Hamburg",
+    "country": "Germany"
+  },
+  {
+    "id": 17,
+    "uuid": "5fbd7f24-ff3f-4e60-824f-bfe1357ef240",
+    "username": "benjamin_garcia41",
+    "email": "benjamin.garcia41@example.com",
+    "createdAt": "2022-12-10T14:18:50Z",
+    "profession": "Photographer",
+    "city": "Los Angeles",
+    "country": "USA"
+  },
+  {
+    "id": 18,
+    "uuid": "1b0634e1-0d3d-44b1-b21d-9e3b0f91f42a",
+    "username": "harper_lee02",
+    "email": "harper.lee02@example.com",
+    "createdAt": "2022-11-15T13:14:10Z",
+    "profession": "Writer",
+    "city": "Osaka",
+    "country": "Japan"
+  },
+  {
+    "id": 19,
+    "uuid": "d3c99790-1451-4673-bcb9-5132543a7b7f",
+    "username": "lucas_james66",
+    "email": "lucas.james66@example.com",
+    "createdAt": "2022-10-25T12:07:45Z",
+    "profession": "Web Developer",
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  {
+    "id": 20,
+    "uuid": "424f0646-1b74-4d97-a6e9-8c34d5c5f6c3",
+    "username": "chloe_davis49",
+    "email": "chloe.davis49@example.com",
+    "createdAt": "2022-09-20T11:34:59Z",
+    "profession": "Pharmacist",
+    "city": "Rio de Janeiro",
+    "country": "Brazil"
+  }
+]

@@ -1,0 +1,2037 @@
+[
+  {
+    "id": 1,
+    "uuid": "5c9f1d4d-dc33-4c07-81c6-00018c9b760e",
+    "country": "Afghanistan",
+    "capitalcity": "Kabul",
+    "languages": [
+      "Dari",
+      "Pashto"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 2,
+    "uuid": "92fcadbf-932e-4f13-8085-515f2d16eab2",
+    "country": "Albania",
+    "capitalcity": "Tirana",
+    "languages": [
+      "Albanian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 3,
+    "uuid": "5ff8f7cd-d7fe-48b5-b13f-14ca1a2a2b30",
+    "country": "Algeria",
+    "capitalcity": "Algiers",
+    "languages": [
+      "Arabic",
+      "Berber"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 4,
+    "uuid": "441064c6-2405-46ed-97fa-1733a2142ec7",
+    "country": "Andorra",
+    "capitalcity": "Andorra la Vella",
+    "languages": [
+      "Catalan"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 5,
+    "uuid": "96daaf51-2a58-4f1c-94e2-535b5c106f90",
+    "country": "Angola",
+    "capitalcity": "Luanda",
+    "languages": [
+      "Portuguese"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 6,
+    "uuid": "42b84a3e-55d1-4766-9b5d-5062ae771f53",
+    "country": "Antigua and Barbuda",
+    "capitalcity": "Saint John's",
+    "languages": [
+      "English"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 7,
+    "uuid": "edc24460-7d57-45e7-b1b5-3d57627481f0",
+    "country": "Argentina",
+    "capitalcity": "Buenos Aires",
+    "languages": [
+      "Spanish"
+    ],
+    "continent": "South America"
+  },
+  {
+    "id": 8,
+    "uuid": "61b957e5-22ec-497d-87ab-0132057a69e7",
+    "country": "Armenia",
+    "capitalcity": "Yerevan",
+    "languages": [
+      "Armenian"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 9,
+    "uuid": "b557d149-2311-4d23-9b87-b3ad11605da3",
+    "country": "Australia",
+    "capitalcity": "Canberra",
+    "languages": [
+      "English"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "id": 10,
+    "uuid": "ad99cf6a-1f4c-46c7-9ac7-e8f5dbe92527",
+    "country": "Austria",
+    "capitalcity": "Vienna",
+    "languages": [
+      "German"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 11,
+    "uuid": "f2a3b9c0-00ea-4e89-b773-3f5a6e4e06ed",
+    "country": "Azerbaijan",
+    "capitalcity": "Baku",
+    "languages": [
+      "Azerbaijani"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 12,
+    "uuid": "f4b43627-99fe-45ca-a8f2-803350f6d3ab",
+    "country": "Bahamas",
+    "capitalcity": "Nassau",
+    "languages": [
+      "English"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 13,
+    "uuid": "50b2139e-2f66-4191-b94b-d2a6a58d1e65",
+    "country": "Bahrain",
+    "capitalcity": "Manama",
+    "languages": [
+      "Arabic"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 14,
+    "uuid": "19f5a9b1-591f-4d2d-81ca-e4e0c9ad8584",
+    "country": "Bangladesh",
+    "capitalcity": "Dhaka",
+    "languages": [
+      "Bengali"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 15,
+    "uuid": "1736b5b7-0835-42fc-bbc7-042e56b724f0",
+    "country": "Barbados",
+    "capitalcity": "Bridgetown",
+    "languages": [
+      "English"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 16,
+    "uuid": "a8cd91ad-0a5e-47e9-b537-e26d57f78ad5",
+    "country": "Belarus",
+    "capitalcity": "Minsk",
+    "languages": [
+      "Belarusian",
+      "Russian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 17,
+    "uuid": "5c9b19ab-b603-49d4-b054-78eb46d99964",
+    "country": "Belgium",
+    "capitalcity": "Brussels",
+    "languages": [
+      "Dutch",
+      "French",
+      "German"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 18,
+    "uuid": "62294ea3-858e-4509-a1d2-bc3f8a61b67f",
+    "country": "Belize",
+    "capitalcity": "Belmopan",
+    "languages": [
+      "English"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 19,
+    "uuid": "c927e5b4-e8d2-4f3b-bab2-d2e58b0b4a87",
+    "country": "Benin",
+    "capitalcity": "Porto-Novo",
+    "languages": [
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 20,
+    "uuid": "07966356-8391-4a15-b70e-006699b54279",
+    "country": "Bhutan",
+    "capitalcity": "Thimphu",
+    "languages": [
+      "Dzongkha"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 21,
+    "uuid": "2550c208-50e0-4b16-86cf-381c0745447e",
+    "country": "Bolivia",
+    "capitalcity": "Sucre (constitutional), La Paz (seat of government)",
+    "languages": [
+      "Spanish",
+      "Quechua",
+      "Aymara"
+    ],
+    "continent": "South America"
+  },
+  {
+    "id": 22,
+    "uuid": "b53cd007-e30f-48b9-9f0f-1e68d202221f",
+    "country": "Bosnia and Herzegovina",
+    "capitalcity": "Sarajevo",
+    "languages": [
+      "Bosnian",
+      "Croatian",
+      "Serbian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 23,
+    "uuid": "f0d905a2-c67b-4e64-9074-4061bfa46052",
+    "country": "Botswana",
+    "capitalcity": "Gaborone",
+    "languages": [
+      "English",
+      "Tswana"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 24,
+    "uuid": "a2eae3ea-e9bc-472e-9a5a-016a22e5d772",
+    "country": "Brazil",
+    "capitalcity": "Brasília",
+    "languages": [
+      "Portuguese"
+    ],
+    "continent": "South America"
+  },
+  {
+    "id": 25,
+    "uuid": "63f8187e-4f2b-4331-82a7-b77551a3499d",
+    "country": "Brunei",
+    "capitalcity": "Bandar Seri Begawan",
+    "languages": [
+      "Malay"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 26,
+    "uuid": "90b863b8-383f-4b1e-b607-6518468c81b2",
+    "country": "Bulgaria",
+    "capitalcity": "Sofia",
+    "languages": [
+      "Bulgarian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 27,
+    "uuid": "61a8f14f-9d25-41c8-b79d-017c79d2e0d5",
+    "country": "Burkina Faso",
+    "capitalcity": "Ouagadougou",
+    "languages": [
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 28,
+    "uuid": "2212fe77-d2f6-4d29-ae6e-489a418fc9a0",
+    "country": "Burundi",
+    "capitalcity": "Bujumbura",
+    "languages": [
+      "Kirundi",
+      "French",
+      "English"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 29,
+    "uuid": "4e5f9e04-0d7c-42b7-babf-f96301db1f23",
+    "country": "Cabo Verde",
+    "capitalcity": "Praia",
+    "languages": [
+      "Portuguese"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 30,
+    "uuid": "f0cb8ad4-dfd2-44a6-bfa9-37d35d8659bc",
+    "country": "Cambodia",
+    "capitalcity": "Phnom Penh",
+    "languages": [
+      "Khmer"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 31,
+    "uuid": "d3924213-7c35-4b9e-b60f-7c1d3ea50f3b",
+    "country": "Cameroon",
+    "capitalcity": "Yaoundé",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 32,
+    "uuid": "cd2055ea-b1f9-4baf-9f8a-cbc9ca7a8b71",
+    "country": "Canada",
+    "capitalcity": "Ottawa",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 33,
+    "uuid": "3edfe98b-578b-4a07-b346-d70e15bc7360",
+    "country": "Central African Republic",
+    "capitalcity": "Bangui",
+    "languages": [
+      "French",
+      "Sango"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 34,
+    "uuid": "c6eb60f8-b7d3-49e9-87ac-2fdb7cdd57ed",
+    "country": "Chad",
+    "capitalcity": "N'Djamena",
+    "languages": [
+      "French",
+      "Arabic"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 35,
+    "uuid": "1bc9acff-0d9f-4841-b38b-bd6074c046b3",
+    "country": "Chile",
+    "capitalcity": "Santiago",
+    "languages": [
+      "Spanish"
+    ],
+    "continent": "South America"
+  },
+  {
+    "id": 36,
+    "uuid": "a381f670-f9e5-4a02-9b7a-4c20826351f1",
+    "country": "China",
+    "capitalcity": "Beijing",
+    "languages": [
+      "Chinese"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 37,
+    "uuid": "8ff44513-1e1b-46d8-9e4f-e24b8b45ef78",
+    "country": "Colombia",
+    "capitalcity": "Bogotá",
+    "languages": [
+      "Spanish"
+    ],
+    "continent": "South America"
+  },
+  {
+    "id": 38,
+    "uuid": "cb0da1f8-c8a4-48f6-b7c1-2b83112684cf",
+    "country": "Comoros",
+    "capitalcity": "Moroni",
+    "languages": [
+      "Comorian",
+      "Arabic",
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 39,
+    "uuid": "94a37c1d-e941-42f9-8257-5e62f276dce9",
+    "country": "Congo (Republic of the)",
+    "capitalcity": "Brazzaville",
+    "languages": [
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 40,
+    "uuid": "33c8b62d-0e64-49d8-b840-c228faaf27c0",
+    "country": "Congo (Democratic Republic of the)",
+    "capitalcity": "Kinshasa",
+    "languages": [
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 41,
+    "uuid": "95a2e02a-08e1-4663-a20c-f1a37f948fb7",
+    "country": "Costa Rica",
+    "capitalcity": "San José",
+    "languages": [
+      "Spanish"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 42,
+    "uuid": "85e0b9a0-1044-4007-b6cd-cf2db5920d3f",
+    "country": "Croatia",
+    "capitalcity": "Zagreb",
+    "languages": [
+      "Croatian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 43,
+    "uuid": "b9d4f4e2-5f97-4298-8d22-708a340a3809",
+    "country": "Cuba",
+    "capitalcity": "Havana",
+    "languages": [
+      "Spanish"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 44,
+    "uuid": "bf4e4c5b-2ec5-4e52-898b-706ab1496a74",
+    "country": "Cyprus",
+    "capitalcity": "Nicosia",
+    "languages": [
+      "Greek",
+      "Turkish"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 45,
+    "uuid": "d6f64c89-e4d4-4992-b7bc-c8ed2d451b58",
+    "country": "Czech Republic",
+    "capitalcity": "Prague",
+    "languages": [
+      "Czech"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 46,
+    "uuid": "5ac2649e-c7b9-4774-bc3a-9f088ce63fe9",
+    "country": "Denmark",
+    "capitalcity": "Copenhagen",
+    "languages": [
+      "Danish"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 47,
+    "uuid": "90a457a6-d88d-4b6f-bb80-33a5ad8d788f",
+    "country": "Djibouti",
+    "capitalcity": "Djibouti City",
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 48,
+    "uuid": "d19382cc-0809-465f-85a1-e2297ca142e3",
+    "country": "Dominica",
+    "capitalcity": "Roseau",
+    "languages": [
+      "English"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 49,
+    "uuid": "fa1de56e-bd1b-462d-8fa6-64f3ae3063ef",
+    "country": "Dominican Republic",
+    "capitalcity": "Santo Domingo",
+    "languages": [
+      "Spanish"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 50,
+    "uuid": "6eec9e57-8b06-48fc-a5d2-8d84a828c5de",
+    "country": "Ecuador",
+    "capitalcity": "Quito",
+    "languages": [
+      "Spanish"
+    ],
+    "continent": "South America"
+  },
+  {
+    "id": 51,
+    "uuid": "56440d27-68fd-4629-b0c6-968bd09f60c2",
+    "country": "Egypt",
+    "capitalcity": "Cairo",
+    "languages": [
+      "Arabic"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 52,
+    "uuid": "5d02b9ad-c0a4-4692-a76f-850c8bb37a55",
+    "country": "El Salvador",
+    "capitalcity": "San Salvador",
+    "languages": [
+      "Spanish"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 53,
+    "uuid": "0ec6d66a-9e2b-44cf-8003-46f1d013c91e",
+    "country": "Equatorial Guinea",
+    "capitalcity": "Malabo",
+    "languages": [
+      "Spanish",
+      "French",
+      "Portuguese"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 54,
+    "uuid": "5b69321f-093f-42c9-bab9-48a7c5e6eec3",
+    "country": "Eritrea",
+    "capitalcity": "Asmara",
+    "languages": [
+      "Tigrinya",
+      "Arabic",
+      "English"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 55,
+    "uuid": "f00078ac-3450-46f9-b388-1b8f50b5e5db",
+    "country": "Estonia",
+    "capitalcity": "Tallinn",
+    "languages": [
+      "Estonian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 56,
+    "uuid": "599ba96f-6ea5-47d4-a5ca-caf0be014004",
+    "country": "Eswatini",
+    "capitalcity": "Mbabane (administrative), Lobamba (royal and legislative)",
+    "languages": [
+      "Swazi",
+      "English"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 57,
+    "uuid": "41f2f77f-bc56-4049-aaff-4e89db1319f4",
+    "country": "Ethiopia",
+    "capitalcity": "Addis Ababa",
+    "languages": [
+      "Amharic"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 58,
+    "uuid": "8700c0b7-58d9-4b3f-85fd-c6d40bb603f7",
+    "country": "Fiji",
+    "capitalcity": "Suva",
+    "languages": [
+      "English",
+      "Fijian",
+      "Hindustani"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "id": 59,
+    "uuid": "39df8d63-e80f-42fd-b6ed-36f572cb9f2b",
+    "country": "Finland",
+    "capitalcity": "Helsinki",
+    "languages": [
+      "Finnish",
+      "Swedish"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 60,
+    "uuid": "8a45c559-b1ad-4921-b4b5-35a722ed7e58",
+    "country": "France",
+    "capitalcity": "Paris",
+    "languages": [
+      "French"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 61,
+    "uuid": "3ab4b90d-bad7-4874-b57e-cb9d97a1f108",
+    "country": "Gabon",
+    "capitalcity": "Libreville",
+    "languages": [
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 62,
+    "uuid": "5de6e39c-2771-40e3-9f45-0f6d8b3972a2",
+    "country": "Gambia",
+    "capitalcity": "Banjul",
+    "languages": [
+      "English"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 63,
+    "uuid": "869a9eb9-5637-4a8b-83d3-84b497c2fe7a",
+    "country": "Georgia",
+    "capitalcity": "Tbilisi",
+    "languages": [
+      "Georgian"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 64,
+    "uuid": "2b3cd8d7-e3d6-4b29-900a-5e90c1670b96",
+    "country": "Germany",
+    "capitalcity": "Berlin",
+    "languages": [
+      "German"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 65,
+    "uuid": "3726184b-4980-4267-bfc7-7380392d140f",
+    "country": "Ghana",
+    "capitalcity": "Accra",
+    "languages": [
+      "English"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 66,
+    "uuid": "30a045f9-5f61-45c3-9e2c-07322cce34f9",
+    "country": "Greece",
+    "capitalcity": "Athens",
+    "languages": [
+      "Greek"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 67,
+    "uuid": "4e1c4a87-7a76-46fa-9d65-6a522b7b4166",
+    "country": "Grenada",
+    "capitalcity": "St. George's",
+    "languages": [
+      "English"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 68,
+    "uuid": "3060ff1d-5d9f-41ba-95a4-2425ac50d8c9",
+    "country": "Guatemala",
+    "capitalcity": "Guatemala City",
+    "languages": [
+      "Spanish"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 69,
+    "uuid": "7b4d110d-c22d-4c57-b2a3-c3d9b5731c6f",
+    "country": "Guinea",
+    "capitalcity": "Conakry",
+    "languages": [
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 70,
+    "uuid": "0bdf7fc9-0f3d-4872-94f5-58163b5b387d",
+    "country": "Guinea-Bissau",
+    "capitalcity": "Bissau",
+    "languages": [
+      "Portuguese"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 71,
+    "uuid": "5b9a56cd-22e0-4a8b-a542-96a3b9a4b2e1",
+    "country": "Guyana",
+    "capitalcity": "Georgetown",
+    "languages": [
+      "English"
+    ],
+    "continent": "South America"
+  },
+  {
+    "id": 72,
+    "uuid": "1a4b8ed5-5d1c-4725-8857-1e35119fc06b",
+    "country": "Haiti",
+    "capitalcity": "Port-au-Prince",
+    "languages": [
+      "Haitian Creole",
+      "French"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 73,
+    "uuid": "c1a17f84-2808-4bfe-84db-b197678a0e48",
+    "country": "Honduras",
+    "capitalcity": "Tegucigalpa",
+    "languages": [
+      "Spanish"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 74,
+    "uuid": "0ffb71d0-85cf-44e2-b056-82e272f574fa",
+    "country": "Hungary",
+    "capitalcity": "Budapest",
+    "languages": [
+      "Hungarian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 75,
+    "uuid": "5a2833d9-7cb3-4a57-bccd-c8f77361a47a",
+    "country": "Iceland",
+    "capitalcity": "Reykjavik",
+    "languages": [
+      "Icelandic"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 76,
+    "uuid": "77246098-5f5d-4699-bd0b-d6c6a2fdf9f1",
+    "country": "India",
+    "capitalcity": "New Delhi",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 77,
+    "uuid": "fbd518fa-d6b0-4e49-bff9-b42f18fdbb6f",
+    "country": "Indonesia",
+    "capitalcity": "Jakarta",
+    "languages": [
+      "Indonesian"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 78,
+    "uuid": "06b67edb-37ca-4cc7-bc89-9c51bc7987b9",
+    "country": "Iran",
+    "capitalcity": "Tehran",
+    "languages": [
+      "Persian"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 79,
+    "uuid": "5d6098fd-f060-4ed0-b05e-75ab0ed3313c",
+    "country": "Iraq",
+    "capitalcity": "Baghdad",
+    "languages": [
+      "Arabic",
+      "Kurdish"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 80,
+    "uuid": "5a1b2c1e-8ea7-43d0-b0cd-cfe3f7c08b79",
+    "country": "Ireland",
+    "capitalcity": "Dublin",
+    "languages": [
+      "Irish",
+      "English"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 81,
+    "uuid": "7daab14b-c4f3-4f0e-bf44-d93db79801cf",
+    "country": "Israel",
+    "capitalcity": "Jerusalem",
+    "languages": [
+      "Hebrew",
+      "Arabic"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 82,
+    "uuid": "f0f7f2ff-c194-4c12-a0a0-387ea89d4b72",
+    "country": "Italy",
+    "capitalcity": "Rome",
+    "languages": [
+      "Italian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 83,
+    "uuid": "e71cbcd5-21f3-4b32-bd7b-dc1fd63979e9",
+    "country": "Jamaica",
+    "capitalcity": "Kingston",
+    "languages": [
+      "English"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 84,
+    "uuid": "09709f4a-4c24-4209-8f28-d47c9430c0c5",
+    "country": "Japan",
+    "capitalcity": "Tokyo",
+    "languages": [
+      "Japanese"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 85,
+    "uuid": "5b0e68b0-d90d-4375-bac1-3e7e3a4a07ae",
+    "country": "Jordan",
+    "capitalcity": "Amman",
+    "languages": [
+      "Arabic"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 86,
+    "uuid": "2a96e9c8-b30d-45b5-bfa6-6a0f91cb7b8e",
+    "country": "Kazakhstan",
+    "capitalcity": "Nur-Sultan (formerly Astana)",
+    "languages": [
+      "Kazakh",
+      "Russian"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 87,
+    "uuid": "9c1fcb06-0fc3-4a32-bf84-f4d06a7feebf",
+    "country": "Kenya",
+    "capitalcity": "Nairobi",
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 88,
+    "uuid": "003c28a7-e1b6-4e99-b476-13d8b8464234",
+    "country": "Kiribati",
+    "capitalcity": "Tarawa",
+    "languages": [
+      "English",
+      "Gilbertese"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "id": 89,
+    "uuid": "ee1a8c50-9051-40a4-930f-9f27246d7849",
+    "country": "Korea, North",
+    "capitalcity": "Pyongyang",
+    "languages": [
+      "Korean"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 90,
+    "uuid": "ad9703fe-2eaf-4b91-bf0b-024bf2904dfe",
+    "country": "Korea, South",
+    "capitalcity": "Seoul",
+    "languages": [
+      "Korean"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 91,
+    "uuid": "9a1c13e2-2196-4f4c-b476-52bbf9ff10d3",
+    "country": "Kuwait",
+    "capitalcity": "Kuwait City",
+    "languages": [
+      "Arabic"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 92,
+    "uuid": "b6f68be7-9579-4199-ae4e-8fa70ed221b2",
+    "country": "Kyrgyzstan",
+    "capitalcity": "Bishkek",
+    "languages": [
+      "Kyrgyz",
+      "Russian"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 93,
+    "uuid": "15f9f490-370d-4ef4-b074-d4c23f7d9371",
+    "country": "Laos",
+    "capitalcity": "Vientiane",
+    "languages": [
+      "Lao"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 94,
+    "uuid": "e30eb070-cdf1-44b5-9908-1fe56066b9f6",
+    "country": "Latvia",
+    "capitalcity": "Riga",
+    "languages": [
+      "Latvian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 95,
+    "uuid": "6d973957-7077-47bb-85a2-345ee3c4e4e7",
+    "country": "Lebanon",
+    "capitalcity": "Beirut",
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 96,
+    "uuid": "846586c4-bf2c-42be-bb0c-bd0c8b6fd5b2",
+    "country": "Lesotho",
+    "capitalcity": "Maseru",
+    "languages": [
+      "Sesotho",
+      "English"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 97,
+    "uuid": "03595fc7-57bb-4a70-90cf-37b885b4db2d",
+    "country": "Liberia",
+    "capitalcity": "Monrovia",
+    "languages": [
+      "English"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 98,
+    "uuid": "9f2f8f4b-b6c4-4787-8578-35b128b06ac0",
+    "country": "Libya",
+    "capitalcity": "Tripoli",
+    "languages": [
+      "Arabic"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 99,
+    "uuid": "4c1a3fa1-8789-4a5e-84ae-62f110a44652",
+    "country": "Liechtenstein",
+    "capitalcity": "Vaduz",
+    "languages": [
+      "German"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 100,
+    "uuid": "6c8d9453-2c60-4c2d-9b90-d6e5c96c6ae7",
+    "country": "Lithuania",
+    "capitalcity": "Vilnius",
+    "languages": [
+      "Lithuanian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 101,
+    "uuid": "d2c97c94-c9b4-4371-b87b-6fd2b3b4a5ca",
+    "country": "Luxembourg",
+    "capitalcity": "Luxembourg City",
+    "languages": [
+      "Luxembourgish",
+      "French",
+      "German"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 102,
+    "uuid": "3f5b0d71-e6a0-430b-8be5-d35753e0d1a7",
+    "country": "Madagascar",
+    "capitalcity": "Antananarivo",
+    "languages": [
+      "Malagasy",
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 103,
+    "uuid": "bb25561a-b0fd-46a3-9f60-dc22123f4e7d",
+    "country": "Malawi",
+    "capitalcity": "Lilongwe",
+    "languages": [
+      "Chichewa",
+      "English"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 104,
+    "uuid": "8e577a6b-f1ca-49be-9997-e7d500df9c69",
+    "country": "Malaysia",
+    "capitalcity": "Kuala Lumpur",
+    "languages": [
+      "Malay"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 105,
+    "uuid": "2065c07f-cb6a-402e-b62c-2f10cb4581d3",
+    "country": "Maldives",
+    "capitalcity": "Malé",
+    "languages": [
+      "Dhivehi"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 106,
+    "uuid": "b0c5707b-6ae7-4d0f-99f9-d3cb153a8de5",
+    "country": "Mali",
+    "capitalcity": "Bamako",
+    "languages": [
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 107,
+    "uuid": "94f3b20a-d6b4-47b7-8b73-46ed0e91e928",
+    "country": "Malta",
+    "capitalcity": "Valletta",
+    "languages": [
+      "Maltese",
+      "English"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 108,
+    "uuid": "9e7f8c9b-fd56-473e-91c9-0046bda949db",
+    "country": "Marshall Islands",
+    "capitalcity": "Majuro",
+    "languages": [
+      "Marshallese",
+      "English"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "id": 109,
+    "uuid": "9c016f93-dcd6-4ea5-9f96-928f9fc58291",
+    "country": "Mauritania",
+    "capitalcity": "Nouakchott",
+    "languages": [
+      "Arabic"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 110,
+    "uuid": "f44589cb-dfd3-4421-b084-35c9e3cf87be",
+    "country": "Mauritius",
+    "capitalcity": "Port Louis",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 111,
+    "uuid": "d38d6b58-6a29-406d-85a4-d6b4a4c39b30",
+    "country": "Mexico",
+    "capitalcity": "Mexico City",
+    "languages": [
+      "Spanish"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 112,
+    "uuid": "82c20477-2bfc-4fbb-8a16-7d199c32e2c9",
+    "country": "Micronesia",
+    "capitalcity": "Palikir",
+    "languages": [
+      "English"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "id": 113,
+    "uuid": "033a4102-8e68-4049-bc72-4c3c61ed7a3a",
+    "country": "Moldova",
+    "capitalcity": "Chisinau",
+    "languages": [
+      "Romanian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 114,
+    "uuid": "f2de9e84-7c6e-44c8-824f-7d987a079406",
+    "country": "Monaco",
+    "capitalcity": "Monaco",
+    "languages": [
+      "French"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 115,
+    "uuid": "2f87fa56-68b7-4a3e-b739-544b345d47e1",
+    "country": "Mongolia",
+    "capitalcity": "Ulaanbaatar",
+    "languages": [
+      "Mongolian"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 116,
+    "uuid": "f7ac9b72-bdd2-4c1a-ae28-6404e1f9b7c4",
+    "country": "Montenegro",
+    "capitalcity": "Podgorica",
+    "languages": [
+      "Montenegrin"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 117,
+    "uuid": "1d0f595b-e2c2-43f0-b9e0-b76f1186c607",
+    "country": "Morocco",
+    "capitalcity": "Rabat",
+    "languages": [
+      "Arabic",
+      "Berber"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 118,
+    "uuid": "f77a22bc-07a1-41a1-a5f3-2de2bbd30f12",
+    "country": "Mozambique",
+    "capitalcity": "Maputo",
+    "languages": [
+      "Portuguese"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 119,
+    "uuid": "9cc04c67-4377-497f-bf8c-c5e01ff4b7e0",
+    "country": "Myanmar",
+    "capitalcity": "Naypyidaw",
+    "languages": [
+      "Burmese"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 120,
+    "uuid": "3b1c79c9-d0e6-478f-aed0-e105e801baf1",
+    "country": "Namibia",
+    "capitalcity": "Windhoek",
+    "languages": [
+      "English"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 121,
+    "uuid": "eb9e01bc-1e6f-4c4f-b87f-f1f73e6d06e9",
+    "country": "Nauru",
+    "capitalcity": "Yaren",
+    "languages": [
+      "Nauruan",
+      "English"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "id": 122,
+    "uuid": "bfa81d1b-33c1-4d97-85b5-e0a98ef7dbf2",
+    "country": "Nepal",
+    "capitalcity": "Kathmandu",
+    "languages": [
+      "Nepali"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 123,
+    "uuid": "8d0d6c7b-bfc9-4659-84b9-98ed0b5e2897",
+    "country": "Netherlands",
+    "capitalcity": "Amsterdam",
+    "languages": [
+      "Dutch"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 124,
+    "uuid": "9021b5ac-bf5a-40f0-b771-55c09e34b0c1",
+    "country": "New Zealand",
+    "capitalcity": "Wellington",
+    "languages": [
+      "English",
+      "Māori"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "id": 125,
+    "uuid": "7cc1b9a5-e9b5-49c0-9112-48a17862ef56",
+    "country": "Nicaragua",
+    "capitalcity": "Managua",
+    "languages": [
+      "Spanish"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 126,
+    "uuid": "f7fcfa23-4e0b-4001-8a16-4b82e0ab0c2f",
+    "country": "Niger",
+    "capitalcity": "Niamey",
+    "languages": [
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 127,
+    "uuid": "3d34017b-b587-4e0c-ae27-09e607e2f8f2",
+    "country": "Nigeria",
+    "capitalcity": "Abuja",
+    "languages": [
+      "English"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 128,
+    "uuid": "6d57e496-c110-48ea-b2ca-c060f41d82b4",
+    "country": "North Macedonia",
+    "capitalcity": "Skopje",
+    "languages": [
+      "Macedonian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 129,
+    "uuid": "401affd0-cfe7-43ff-bae6-3f7e460d631f",
+    "country": "Norway",
+    "capitalcity": "Oslo",
+    "languages": [
+      "Norwegian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 130,
+    "uuid": "fb6dffb7-b2fc-4161-9d72-34f07ac6bc9d",
+    "country": "Oman",
+    "capitalcity": "Muscat",
+    "languages": [
+      "Arabic"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 131,
+    "uuid": "94e2eddb-585e-4c65-90b1-7d689bf81c8d",
+    "country": "Pakistan",
+    "capitalcity": "Islamabad",
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 132,
+    "uuid": "b651a156-4676-4177-bf28-9c6870e94358",
+    "country": "Palau",
+    "capitalcity": "Ngerulmud",
+    "languages": [
+      "Palauan",
+      "English"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "id": 133,
+    "uuid": "c2fbd55a-d55b-45b4-8b1b-d35e054d0432",
+    "country": "Panama",
+    "capitalcity": "Panama City",
+    "languages": [
+      "Spanish"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 134,
+    "uuid": "2075357a-b9f7-4596-9d43-f460f5db55d0",
+    "country": "Papua New Guinea",
+    "capitalcity": "Port Moresby",
+    "languages": [
+      "English",
+      "Tok Pisin",
+      "Hiri Motu"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "id": 135,
+    "uuid": "d6d53c87-d1b2-457f-bf0b-1f5d7b5a3be0",
+    "country": "Paraguay",
+    "capitalcity": "Asunción",
+    "languages": [
+      "Spanish",
+      "Guaraní"
+    ],
+    "continent": "South America"
+  },
+  {
+    "id": 136,
+    "uuid": "1491cd8e-7b77-47e0-bf61-c00375d660b0",
+    "country": "Peru",
+    "capitalcity": "Lima",
+    "languages": [
+      "Spanish",
+      "Quechua"
+    ],
+    "continent": "South America"
+  },
+  {
+    "id": 137,
+    "uuid": "16e61b7f-dcd6-40fc-a268-2e689a52011d",
+    "country": "Philippines",
+    "capitalcity": "Manila",
+    "languages": [
+      "Filipino",
+      "English"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 138,
+    "uuid": "d9be2e62-d2b2-4026-8100-c4ff8b5a5121",
+    "country": "Poland",
+    "capitalcity": "Warsaw",
+    "languages": [
+      "Polish"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 139,
+    "uuid": "a79bfe8e-cbd4-43b3-8c3c-0d75f0626d2f",
+    "country": "Portugal",
+    "capitalcity": "Lisbon",
+    "languages": [
+      "Portuguese"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 140,
+    "uuid": "17ea8b68-f85e-42de-bffb-96df71218c5e",
+    "country": "Qatar",
+    "capitalcity": "Doha",
+    "languages": [
+      "Arabic"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 141,
+    "uuid": "e3df7a6a-d0b5-45a0-8758-6205bcf7265a",
+    "country": "Romania",
+    "capitalcity": "Bucharest",
+    "languages": [
+      "Romanian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 142,
+    "uuid": "2de7a017-8d6a-4bff-b92f-e9cc4d57f1bc",
+    "country": "Russia",
+    "capitalcity": "Moscow",
+    "languages": [
+      "Russian"
+    ],
+    "continent": "Europe/Asia"
+  },
+  {
+    "id": 143,
+    "uuid": "982d44e1-e6e2-4d6f-b5f4-2be7085cc465",
+    "country": "Rwanda",
+    "capitalcity": "Kigali",
+    "languages": [
+      "Kinyarwanda",
+      "French",
+      "English"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 144,
+    "uuid": "cc58b8d7-3fef-4c56-b9c0-786fecc88e75",
+    "country": "Saint Kitts and Nevis",
+    "capitalcity": "Basseterre",
+    "languages": [
+      "English"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 145,
+    "uuid": "8e299ee3-79db-4c77-97ae-9d82ec6d77a4",
+    "country": "Saint Lucia",
+    "capitalcity": "Castries",
+    "languages": [
+      "English"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 146,
+    "uuid": "78436ef7-944e-47f0-bd7a-c9865e3ad5f9",
+    "country": "Saint Vincent and the Grenadines",
+    "capitalcity": "Kingstown",
+    "languages": [
+      "English"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 147,
+    "uuid": "6d5b57b1-f214-42e0-b890-285acb07024d",
+    "country": "Samoa",
+    "capitalcity": "Apia",
+    "languages": [
+      "Samoan",
+      "English"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "id": 148,
+    "uuid": "dd7085bb-2b8e-4779-9578-5b16b74d5fe0",
+    "country": "San Marino",
+    "capitalcity": "San Marino",
+    "languages": [
+      "Italian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 149,
+    "uuid": "9607c57a-67b8-4f12-b1ab-91c8aab8e3d7",
+    "country": "Sao Tome and Principe",
+    "capitalcity": "São Tomé",
+    "languages": [
+      "Portuguese"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 150,
+    "uuid": "ddbe698f-6096-4d35-b3b0-b2abdb256f8c",
+    "country": "Saudi Arabia",
+    "capitalcity": "Riyadh",
+    "languages": [
+      "Arabic"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 151,
+    "uuid": "ec0d95f5-bf44-4b78-a10e-52988e450cc4",
+    "country": "Senegal",
+    "capitalcity": "Dakar",
+    "languages": [
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 152,
+    "uuid": "d773cc61-4e8b-47ab-8784-444d29a94097",
+    "country": "Serbia",
+    "capitalcity": "Belgrade",
+    "languages": [
+      "Serbian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 153,
+    "uuid": "604ebf34-4d3c-4566-8150-bb9d0a9db38f",
+    "country": "Seychelles",
+    "capitalcity": "Victoria",
+    "languages": [
+      "Seychellois Creole",
+      "English",
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 154,
+    "uuid": "03b88be9-d15a-423f-81c3-67a5057d2fe1",
+    "country": "Sierra Leone",
+    "capitalcity": "Freetown",
+    "languages": [
+      "English"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 155,
+    "uuid": "2de6b798-5d1b-4ecf-9373-b27f09f1d529",
+    "country": "Singapore",
+    "capitalcity": "Singapore",
+    "languages": [
+      "English",
+      "Mandarin",
+      "Malay",
+      "Tamil"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 156,
+    "uuid": "cb96e59e-c42d-4a87-b139-fcb0ff1e14b0",
+    "country": "Slovakia",
+    "capitalcity": "Bratislava",
+    "languages": [
+      "Slovak"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 157,
+    "uuid": "fe92b755-68ed-47ec-81f7-6b9f462e45c0",
+    "country": "Slovenia",
+    "capitalcity": "Ljubljana",
+    "languages": [
+      "Slovene"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 158,
+    "uuid": "7720b9e1-01b7-45ac-9e9f-cdf0a9e5b71b",
+    "country": "Solomon Islands",
+    "capitalcity": "Honiara",
+    "languages": [
+      "English"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "id": 159,
+    "uuid": "76e71ff0-8b2f-4754-82a9-e542a46338ff",
+    "country": "Somalia",
+    "capitalcity": "Mogadishu",
+    "languages": [
+      "Somali",
+      "Arabic"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 160,
+    "uuid": "b9c5171c-d9ed-4337-8683-b7b70c1c63a1",
+    "country": "South Africa",
+    "capitalcity": "Pretoria (administrative), Bloemfontein (judicial), Cape Town (legislative)",
+    "languages": [
+      "Afrikaans",
+      "English",
+      "Zulu",
+      "Xhosa"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 161,
+    "uuid": "ee5101b9-d214-49f5-bae2-8d1c37d25a4a",
+    "country": "South Korea",
+    "capitalcity": "Seoul",
+    "languages": [
+      "Korean"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 162,
+    "uuid": "a6e0e6a0-0c19-4f93-b8f7-975ed6b0e1f3",
+    "country": "South Sudan",
+    "capitalcity": "Juba",
+    "languages": [
+      "English"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 163,
+    "uuid": "933c1e4b-bf73-4015-8729-f7002021e459",
+    "country": "Spain",
+    "capitalcity": "Madrid",
+    "languages": [
+      "Spanish"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 164,
+    "uuid": "f431e075-b1de-4634-b86a-baa0bcd91ecf",
+    "country": "Sri Lanka",
+    "capitalcity": "Colombo",
+    "languages": [
+      "Sinhala",
+      "Tamil"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 165,
+    "uuid": "9f0c37c7-ef62-4b56-9d62-5ff8b6bc7a93",
+    "country": "Sudan",
+    "capitalcity": "Khartoum",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 166,
+    "uuid": "edb0a197-2c89-48fe-a445-7c36b573ef65",
+    "country": "Suriname",
+    "capitalcity": "Paramaribo",
+    "languages": [
+      "Dutch"
+    ],
+    "continent": "South America"
+  },
+  {
+    "id": 167,
+    "uuid": "56bb8ec7-4293-4bb4-9f83-4dbd25d7c372",
+    "country": "Sweden",
+    "capitalcity": "Stockholm",
+    "languages": [
+      "Swedish"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 168,
+    "uuid": "d9ccce0a-2080-4b66-87b7-c7ab7e15e110",
+    "country": "Switzerland",
+    "capitalcity": "Bern",
+    "languages": [
+      "German",
+      "French",
+      "Italian",
+      "Romansh"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 169,
+    "uuid": "9d05d50b-0f78-4695-8d86-fc0eebdfd6fe",
+    "country": "Syria",
+    "capitalcity": "Damascus",
+    "languages": [
+      "Arabic"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 170,
+    "uuid": "406c6c58-4e84-4961-954e-04df8037b4b5",
+    "country": "Taiwan",
+    "capitalcity": "Taipei",
+    "languages": [
+      "Mandarin"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 171,
+    "uuid": "00cbaadd-cd34-4025-8273-d36d1ab35e4c",
+    "country": "Tajikistan",
+    "capitalcity": "Dushanbe",
+    "languages": [
+      "Tajik"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 172,
+    "uuid": "ef52b597-397e-4e9b-bb17-6351254ea199",
+    "country": "Tanzania",
+    "capitalcity": "Dodoma",
+    "languages": [
+      "Swahili",
+      "English"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 173,
+    "uuid": "b340ad8a-5d73-40b3-a0e1-6bc50a98da93",
+    "country": "Thailand",
+    "capitalcity": "Bangkok",
+    "languages": [
+      "Thai"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 174,
+    "uuid": "350fe370-5032-4e6c-82be-2ca1f9d0f1c2",
+    "country": "Timor-Leste",
+    "capitalcity": "Dili",
+    "languages": [
+      "Tetum",
+      "Portuguese"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 175,
+    "uuid": "fe3b5c0f-eccc-4626-a0b5-62a85594a2e4",
+    "country": "Togo",
+    "capitalcity": "Lomé",
+    "languages": [
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 176,
+    "uuid": "df1e82cd-2b67-415f-b99a-c55f4f5fe7d4",
+    "country": "Tonga",
+    "capitalcity": "Nuku'alofa",
+    "languages": [
+      "Tongan",
+      "English"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "id": 177,
+    "uuid": "f71fa61e-cb33-4b0d-bb39-13e59aef1df2",
+    "country": "Trinidad and Tobago",
+    "capitalcity": "Port of Spain",
+    "languages": [
+      "English"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 178,
+    "uuid": "be01db63-cf88-49f5-bb31-52f8d69d41b1",
+    "country": "Tunisia",
+    "capitalcity": "Tunis",
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 179,
+    "uuid": "58e09b93-3123-4d16-bb69-61abf70d020e",
+    "country": "Turkey",
+    "capitalcity": "Ankara",
+    "languages": [
+      "Turkish"
+    ],
+    "continent": "Asia/Europe"
+  },
+  {
+    "id": 180,
+    "uuid": "abbfe731-4cfb-4c6a-bba1-6bb7633a17f5",
+    "country": "Turkmenistan",
+    "capitalcity": "Ashgabat",
+    "languages": [
+      "Turkmen"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 181,
+    "uuid": "3d736f80-fc75-4730-9186-91120fdd7020",
+    "country": "Tuvalu",
+    "capitalcity": "Funafuti",
+    "languages": [
+      "Tuvaluan",
+      "English"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "id": 182,
+    "uuid": "7c7a85d4-0a79-4c6f-9a98-f1c6a0fe51e3",
+    "country": "Uganda",
+    "capitalcity": "Kampala",
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 183,
+    "uuid": "839b1e13-49fc-4197-9e0a-b5d800d620ff",
+    "country": "Ukraine",
+    "capitalcity": "Kyiv",
+    "languages": [
+      "Ukrainian"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 184,
+    "uuid": "0a5f0a5b-f20d-45ef-803f-90a10f3a62ac",
+    "country": "United Arab Emirates",
+    "capitalcity": "Abu Dhabi",
+    "languages": [
+      "Arabic"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 185,
+    "uuid": "1cb10bc1-2c16-4e4b-83f4-292773bfe053",
+    "country": "United Kingdom",
+    "capitalcity": "London",
+    "languages": [
+      "English"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 186,
+    "uuid": "71f8282c-c7b0-42f4-b09e-50198ad6198e",
+    "country": "United States",
+    "capitalcity": "Washington, D.C.",
+    "languages": [
+      "English"
+    ],
+    "continent": "North America"
+  },
+  {
+    "id": 187,
+    "uuid": "d778ab6a-8b8b-4e6d-8225-eebeb6d07a9f",
+    "country": "Uruguay",
+    "capitalcity": "Montevideo",
+    "languages": [
+      "Spanish"
+    ],
+    "continent": "South America"
+  },
+  {
+    "id": 188,
+    "uuid": "f66f1dff-9899-4ca2-8ecf-b4789fa6ff6e",
+    "country": "Uzbekistan",
+    "capitalcity": "Tashkent",
+    "languages": [
+      "Uzbek"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 189,
+    "uuid": "19d876b2-d7c3-47d9-a1ac-2c9e64f4ac7e",
+    "country": "Vanuatu",
+    "capitalcity": "Port Vila",
+    "languages": [
+      "Bislama",
+      "English",
+      "French"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "id": 190,
+    "uuid": "fa64c8b6-38a1-4332-b3fc-b057ea8ae6a3",
+    "country": "Vatican City",
+    "capitalcity": "Vatican City",
+    "languages": [
+      "Italian",
+      "Latin"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "id": 191,
+    "uuid": "c429a913-22d2-4160-b41e-5e69f7a20f25",
+    "country": "Venezuela",
+    "capitalcity": "Caracas",
+    "languages": [
+      "Spanish"
+    ],
+    "continent": "South America"
+  },
+  {
+    "id": 192,
+    "uuid": "3c4598ed-f6d6-4690-bb89-b332f9715728",
+    "country": "Vietnam",
+    "capitalcity": "Hanoi",
+    "languages": [
+      "Vietnamese"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 193,
+    "uuid": "271ed0e5-d2f6-4b02-a37e-b595f20959c5",
+    "country": "Yemen",
+    "capitalcity": "Sana'a",
+    "languages": [
+      "Arabic"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "id": 194,
+    "uuid": "c72b80d0-f22b-4ea3-b0a1-5bcac6a7174f",
+    "country": "Zambia",
+    "capitalcity": "Lusaka",
+    "languages": [
+      "English"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "id": 195,
+    "uuid": "b6f97a2b-cb9d-4649-bba7-e38e3766ed1b",
+    "country": "Zimbabwe",
+    "capitalcity": "Harare",
+    "languages": [
+      "English",
+      "Shona",
+      "Ndebele"
+    ],
+    "continent": "Africa"
+  }
+]
+

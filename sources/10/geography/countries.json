@@ -1,0 +1,1547 @@
+[
+  {
+    "id": 1,
+    "uuid": "a5a93f28-b7cc-4f4a-83f1-d0975d3073e1",
+    "name": "Afghanistan",
+    "code": "AF",
+    "capital": "Kabul",
+    "region": "Asia"
+  },
+  {
+    "id": 2,
+    "uuid": "e3a32fcb-b432-4639-8f36-6cdd46b5e95b",
+    "name": "Albania",
+    "code": "AL",
+    "capital": "Tirana",
+    "region": "Europe"
+  },
+  {
+    "id": 3,
+    "uuid": "b9d258c1-08be-4cc4-b6b7-28c09ff6822e",
+    "name": "Algeria",
+    "code": "DZ",
+    "capital": "Algiers",
+    "region": "Africa"
+  },
+  {
+    "id": 4,
+    "uuid": "5c02e501-d9da-4a59-a381-dcdd6a0330f5",
+    "name": "Andorra",
+    "code": "AD",
+    "capital": "Andorra la Vella",
+    "region": "Europe"
+  },
+  {
+    "id": 5,
+    "uuid": "70c71d16-c5de-437d-b724-9249ae9266d9",
+    "name": "Angola",
+    "code": "AO",
+    "capital": "Luanda",
+    "region": "Africa"
+  },
+  {
+    "id": 6,
+    "uuid": "7a8d8f2b-29f6-45c2-8fae-9832d7f0e78d",
+    "name": "Antigua and Barbuda",
+    "code": "AG",
+    "capital": "Saint John's",
+    "region": "Americas"
+  },
+  {
+    "id": 7,
+    "uuid": "0c1bbdbe-16ae-42ec-b8d9-340dbfa35c59",
+    "name": "Argentina",
+    "code": "AR",
+    "capital": "Buenos Aires",
+    "region": "Americas"
+  },
+  {
+    "id": 8,
+    "uuid": "8f5a207f-57f7-40e7-9412-3ff1b7ea7b8a",
+    "name": "Armenia",
+    "code": "AM",
+    "capital": "Yerevan",
+    "region": "Asia"
+  },
+  {
+    "id": 9,
+    "uuid": "edb3c69d-1a56-4eb3-bff0-dc52c6e1d8f1",
+    "name": "Australia",
+    "code": "AU",
+    "capital": "Canberra",
+    "region": "Oceania"
+  },
+  {
+    "id": 10,
+    "uuid": "174f4b16-b831-4b24-bd61-e872ef7c3647",
+    "name": "Austria",
+    "code": "AT",
+    "capital": "Vienna",
+    "region": "Europe"
+  },
+  {
+    "id": 11,
+    "uuid": "f8e8129a-4b49-4a7a-b1f7-7688b5b6c15e",
+    "name": "Azerbaijan",
+    "code": "AZ",
+    "capital": "Baku",
+    "region": "Asia"
+  },
+  {
+    "id": 12,
+    "uuid": "8adfc7b0-8c13-4528-95e5-8c77d060de3f",
+    "name": "Bahamas",
+    "code": "BS",
+    "capital": "Nassau",
+    "region": "Americas"
+  },
+  {
+    "id": 13,
+    "uuid": "198e763f-b9d3-41e3-bd89-d4958a6e9ac5",
+    "name": "Bahrain",
+    "code": "BH",
+    "capital": "Manama",
+    "region": "Asia"
+  },
+  {
+    "id": 14,
+    "uuid": "bdf09c78-d296-4155-8c68-e0165e08092d",
+    "name": "Bangladesh",
+    "code": "BD",
+    "capital": "Dhaka",
+    "region": "Asia"
+  },
+  {
+    "id": 15,
+    "uuid": "1c08e646-e226-437e-89b7-1f479ab937e9",
+    "name": "Barbados",
+    "code": "BB",
+    "capital": "Bridgetown",
+    "region": "Americas"
+  },
+  {
+    "id": 16,
+    "uuid": "0e500b43-07fe-4427-b975-25915ab78598",
+    "name": "Belarus",
+    "code": "BY",
+    "capital": "Minsk",
+    "region": "Europe"
+  },
+  {
+    "id": 17,
+    "uuid": "62b191de-2459-48ad-b204-1e84a01d4d63",
+    "name": "Belgium",
+    "code": "BE",
+    "capital": "Brussels",
+    "region": "Europe"
+  },
+  {
+    "id": 18,
+    "uuid": "0b1d90d6-2bfa-4c99-b7d5-0531b63cb5d3",
+    "name": "Belize",
+    "code": "BZ",
+    "capital": "Belmopan",
+    "region": "Americas"
+  },
+  {
+    "id": 19,
+    "uuid": "a7f7cf83-2a94-4311-9532-b419529836ba",
+    "name": "Benin",
+    "code": "BJ",
+    "capital": "Porto-Novo",
+    "region": "Africa"
+  },
+  {
+    "id": 20,
+    "uuid": "87247d5e-56cf-4754-a5ca-062dff4431a6",
+    "name": "Bhutan",
+    "code": "BT",
+    "capital": "Thimphu",
+    "region": "Asia"
+  },
+  {
+    "id": 21,
+    "uuid": "85018b49-4970-4080-9b3e-55fe0c781c97",
+    "name": "Bolivia",
+    "code": "BO",
+    "capital": "Sucre",
+    "region": "Americas"
+  },
+  {
+    "id": 22,
+    "uuid": "f3f2776b-c501-4b42-a907-3fa73b422d91",
+    "name": "Bosnia and Herzegovina",
+    "code": "BA",
+    "capital": "Sarajevo",
+    "region": "Europe"
+  },
+  {
+    "id": 23,
+    "uuid": "b97074de-29d9-4976-b7d5-2ec8c0136e77",
+    "name": "Botswana",
+    "code": "BW",
+    "capital": "Gaborone",
+    "region": "Africa"
+  },
+  {
+    "id": 24,
+    "uuid": "2193034c-9261-4d56-a0a7-393b7d56b2ff",
+    "name": "Brazil",
+    "code": "BR",
+    "capital": "Brasília",
+    "region": "Americas"
+  },
+  {
+    "id": 25,
+    "uuid": "4fbb0b79-4ca6-4296-8ef1-b1062029d58a",
+    "name": "Brunei",
+    "code": "BN",
+    "capital": "Bandar Seri Begawan",
+    "region": "Asia"
+  },
+  {
+    "id": 26,
+    "uuid": "1e40fdf5-07b7-420d-95ec-f849b08a2352",
+    "name": "Bulgaria",
+    "code": "BG",
+    "capital": "Sofia",
+    "region": "Europe"
+  },
+  {
+    "id": 27,
+    "uuid": "071b0a5c-cdb7-4641-9301-28f2de07957e",
+    "name": "Burkina Faso",
+    "code": "BF",
+    "capital": "Ouagadougou",
+    "region": "Africa"
+  },
+  {
+    "id": 28,
+    "uuid": "c8f30080-2415-43d6-b4b2-feb70fe5a62e",
+    "name": "Burundi",
+    "code": "BI",
+    "capital": "Gitega",
+    "region": "Africa"
+  },
+  {
+    "id": 29,
+    "uuid": "39f37750-1e92-44d1-b3e5-54016b4704b0",
+    "name": "Cabo Verde",
+    "code": "CV",
+    "capital": "Praia",
+    "region": "Africa"
+  },
+  {
+    "id": 30,
+    "uuid": "283b5f9c-bcc3-493f-a31e-903a4091a71d",
+    "name": "Cambodia",
+    "code": "KH",
+    "capital": "Phnom Penh",
+    "region": "Asia"
+  },
+  {
+    "id": 31,
+    "uuid": "9b45b028-d02e-49d8-b982-c56f6296db6e",
+    "name": "Cameroon",
+    "code": "CM",
+    "capital": "Yaoundé",
+    "region": "Africa"
+  },
+  {
+    "id": 32,
+    "uuid": "f74a0f6f-6a5e-4a79-83ca-f71e7a43d913",
+    "name": "Canada",
+    "code": "CA",
+    "capital": "Ottawa",
+    "region": "Americas"
+  },
+  {
+    "id": 33,
+    "uuid": "9276d3c5-dfd3-470b-bd9f-4237cb62c8e7",
+    "name": "Central African Republic",
+    "code": "CF",
+    "capital": "Bangui",
+    "region": "Africa"
+  },
+  {
+    "id": 34,
+    "uuid": "f8d46e8c-ada7-4b5c-bf99-8c571b627081",
+    "name": "Chad",
+    "code": "TD",
+    "capital": "N'Djamena",
+    "region": "Africa"
+  },
+  {
+    "id": 35,
+    "uuid": "5b4e8f9b-5a35-47d5-92d8-53e879a9fdcf",
+    "name": "Chile",
+    "code": "CL",
+    "capital": "Santiago",
+    "region": "Americas"
+  },
+  {
+    "id": 36,
+    "uuid": "b8c2db6e-19b9-41fe-95f1-b77f10062a2c",
+    "name": "China",
+    "code": "CN",
+    "capital": "Beijing",
+    "region": "Asia"
+  },
+  {
+    "id": 37,
+    "uuid": "26f49336-3e3d-47ed-bbc2-d575290b6b4d",
+    "name": "Colombia",
+    "code": "CO",
+    "capital": "Bogotá",
+    "region": "Americas"
+  },
+  {
+    "id": 38,
+    "uuid": "7f3bdfd0-8f94-4d3d-b25d-5c8d23706c4f",
+    "name": "Comoros",
+    "code": "KM",
+    "capital": "Moroni",
+    "region": "Africa"
+  },
+  {
+    "id": 39,
+    "uuid": "d617b72e-8307-42ed-84e0-b7457f73a7fc",
+    "name": "Congo (Congo-Brazzaville)",
+    "code": "CG",
+    "capital": "Brazzaville",
+    "region": "Africa"
+  },
+  {
+    "id": 40,
+    "uuid": "b349bb13-11b2-49ed-a539-ccf5cde87ff4",
+    "name": "Costa Rica",
+    "code": "CR",
+    "capital": "San José",
+    "region": "Americas"
+  },
+  {
+    "id": 41,
+    "uuid": "6e2ed9b1-b3ea-4c94-875b-6e19597fbe96",
+    "name": "Croatia",
+    "code": "HR",
+    "capital": "Zagreb",
+    "region": "Europe"
+  },
+  {
+    "id": 42,
+    "uuid": "8ed27187-51d5-47f2-b2c6-1657679cd82e",
+    "name": "Cuba",
+    "code": "CU",
+    "capital": "Havana",
+    "region": "Americas"
+  },
+  {
+    "id": 43,
+    "uuid": "d4f8b154-09a9-402a-9bc9-c2b65e68bc0c",
+    "name": "Cyprus",
+    "code": "CY",
+    "capital": "Nicosia",
+    "region": "Europe"
+  },
+  {
+    "id": 44,
+    "uuid": "7cb66e0d-d76c-47a5-94a4-36bff824cf38",
+    "name": "Czech Republic",
+    "code": "CZ",
+    "capital": "Prague",
+    "region": "Europe"
+  },
+  {
+    "id": 45,
+    "uuid": "a4b5da64-d05d-40fc-9c6f-2e8fa69b9b2f",
+    "name": "Democratic Republic of the Congo",
+    "code": "CD",
+    "capital": "Kinshasa",
+    "region": "Africa"
+  },
+  {
+    "id": 46,
+    "uuid": "9f4e0201-d45c-4d3e-a379-02d70357d881",
+    "name": "Denmark",
+    "code": "DK",
+    "capital": "Copenhagen",
+    "region": "Europe"
+  },
+  {
+    "id": 47,
+    "uuid": "abf58d64-7ed7-4c7a-835d-8a3e24231f4c",
+    "name": "Djibouti",
+    "code": "DJ",
+    "capital": "Djibouti",
+    "region": "Africa"
+  },
+  {
+    "id": 48,
+    "uuid": "a42999bc-48ac-44e6-9114-4c5576abdf2e",
+    "name": "Dominica",
+    "code": "DM",
+    "capital": "Roseau",
+    "region": "Americas"
+  },
+  {
+    "id": 49,
+    "uuid": "e87197e0-5bb4-4043-b64b-df9bdb40672b",
+    "name": "Dominican Republic",
+    "code": "DO",
+    "capital": "Santo Domingo",
+    "region": "Americas"
+  },
+  {
+    "id": 50,
+    "uuid": "48413e5b-b23c-4753-8aeb-906db537b8f9",
+    "name": "Ecuador",
+    "code": "EC",
+    "capital": "Quito",
+    "region": "Americas"
+  },
+  {
+    "id": 51,
+    "uuid": "f857c938-bba2-4684-b06d-957c9600800d",
+    "name": "Egypt",
+    "code": "EG",
+    "capital": "Cairo",
+    "region": "Africa"
+  },
+  {
+    "id": 52,
+    "uuid": "37e8c3bc-b0b2-437a-b0ca-bb89b00ff99d",
+    "name": "El Salvador",
+    "code": "SV",
+    "capital": "San Salvador",
+    "region": "Americas"
+  },
+  {
+    "id": 53,
+    "uuid": "d388a5fc-1b3e-47ad-b0f7-9cf0b22d3d6f",
+    "name": "Equatorial Guinea",
+    "code": "GQ",
+    "capital": "Malabo",
+    "region": "Africa"
+  },
+  {
+    "id": 54,
+    "uuid": "5e2b376b-d77f-4f06-94a7-705ee11f5bc2",
+    "name": "Eritrea",
+    "code": "ER",
+    "capital": "Asmara",
+    "region": "Africa"
+  },
+  {
+    "id": 55,
+    "uuid": "d7594326-ef70-45e7-b0f2-e1bafdf5e14e",
+    "name": "Estonia",
+    "code": "EE",
+    "capital": "Tallinn",
+    "region": "Europe"
+  },
+  {
+    "id": 56,
+    "uuid": "302cba94-7439-4b2b-bf2f-7b1f1105eac4",
+    "name": "Eswatini",
+    "code": "SZ",
+    "capital": "Mbabane",
+    "region": "Africa"
+  },
+  {
+    "id": 57,
+    "uuid": "d9f23e2a-b34f-4a09-8f0b-b573520a5c1b",
+    "name": "Ethiopia",
+    "code": "ET",
+    "capital": "Addis Ababa",
+    "region": "Africa"
+  },
+  {
+    "id": 58,
+    "uuid": "9c4f7559-4d97-4e26-9382-d8f4cb99960d",
+    "name": "Fiji",
+    "code": "FJ",
+    "capital": "Suva",
+    "region": "Oceania"
+  },
+  {
+    "id": 59,
+    "uuid": "c5c3b6ca-d83b-4c4a-b624-7688772d60cd",
+    "name": "Finland",
+    "code": "FI",
+    "capital": "Helsinki",
+    "region": "Europe"
+  },
+  {
+    "id": 60,
+    "uuid": "ff7e2b49-0032-46e2-a97a-c7cd3c22e3e2",
+    "name": "France",
+    "code": "FR",
+    "capital": "Paris",
+    "region": "Europe"
+  },
+  {
+    "id": 61,
+    "uuid": "92cc73e6-8d2f-4332-97e7-c2b42997cc94",
+    "name": "Gabon",
+    "code": "GA",
+    "capital": "Libreville",
+    "region": "Africa"
+  },
+  {
+    "id": 62,
+    "uuid": "67beebad-7046-4a63-ae9b-cfc20f6975c7",
+    "name": "Gambia",
+    "code": "GM",
+    "capital": "Banjul",
+    "region": "Africa"
+  },
+  {
+    "id": 63,
+    "uuid": "e85c4335-11ec-478a-85e6-cd8cbf2649ca",
+    "name": "Georgia",
+    "code": "GE",
+    "capital": "Tbilisi",
+    "region": "Asia"
+  },
+  {
+    "id": 64,
+    "uuid": "0b8d0412-ea61-4f70-a6f3-7846b2c6ff76",
+    "name": "Germany",
+    "code": "DE",
+    "capital": "Berlin",
+    "region": "Europe"
+  },
+  {
+    "id": 65,
+    "uuid": "28cfb929-e88c-48fc-8305-f5c789bed0cd",
+    "name": "Ghana",
+    "code": "GH",
+    "capital": "Accra",
+    "region": "Africa"
+  },
+  {
+    "id": 66,
+    "uuid": "58749c6c-91f9-493d-90d2-2325d4432e07",
+    "name": "Greece",
+    "code": "GR",
+    "capital": "Athens",
+    "region": "Europe"
+  },
+  {
+    "id": 67,
+    "uuid": "6cf41a4e-c7b2-4939-ae50-9ab93fbb10d1",
+    "name": "Grenada",
+    "code": "GD",
+    "capital": "St. George's",
+    "region": "Americas"
+  },
+  {
+    "id": 68,
+    "uuid": "3ff74c95-6475-44ad-bd70-fb7c9bb848ba",
+    "name": "Guatemala",
+    "code": "GT",
+    "capital": "Guatemala City",
+    "region": "Americas"
+  },
+  {
+    "id": 69,
+    "uuid": "d801c401-fd90-4d66-9354-389a24b9d6e0",
+    "name": "Guinea",
+    "code": "GN",
+    "capital": "Conakry",
+    "region": "Africa"
+  },
+  {
+    "id": 70,
+    "uuid": "8be6f079-41b3-4d27-9f23-1f372b7eb4fa",
+    "name": "Guinea-Bissau",
+    "code": "GW",
+    "capital": "Bissau",
+    "region": "Africa"
+  },
+  {
+    "id": 71,
+    "uuid": "0abf3b1e-bc1a-4406-8991-21fa33b8f51e",
+    "name": "Guyana",
+    "code": "GY",
+    "capital": "Georgetown",
+    "region": "Americas"
+  },
+  {
+    "id": 72,
+    "uuid": "5ef93ef7-7097-406e-bfe5-fb06b5fdd808",
+    "name": "Haiti",
+    "code": "HT",
+    "capital": "Port-au-Prince",
+    "region": "Americas"
+  },
+  {
+    "id": 73,
+    "uuid": "8d6580c9-94fc-48b1-9fbd-43ed7067a220",
+    "name": "Honduras",
+    "code": "HN",
+    "capital": "Tegucigalpa",
+    "region": "Americas"
+  },
+  {
+    "id": 74,
+    "uuid": "e45109a3-5471-4d8b-b6b9-91b6b512c0ea",
+    "name": "Hungary",
+    "code": "HU",
+    "capital": "Budapest",
+    "region": "Europe"
+  },
+  {
+    "id": 75,
+    "uuid": "9c2147a0-d55e-42f2-9ad7-46d2a51ea7e2",
+    "name": "Iceland",
+    "code": "IS",
+    "capital": "Reykjavik",
+    "region": "Europe"
+  },
+  {
+    "id": 76,
+    "uuid": "d41e50fc-47fd-4b69-8506-4138a92f63e6",
+    "name": "India",
+    "code": "IN",
+    "capital": "New Delhi",
+    "region": "Asia"
+  },
+  {
+    "id": 77,
+    "uuid": "c62b1f74-d502-4e5f-8585-d9a8c3fa6d19",
+    "name": "Indonesia",
+    "code": "ID",
+    "capital": "Jakarta",
+    "region": "Asia"
+  },
+  {
+    "id": 78,
+    "uuid": "b567fa57-6fd5-466d-8de5-f3c61a9bfe9f",
+    "name": "Iran",
+    "code": "IR",
+    "capital": "Tehran",
+    "region": "Asia"
+  },
+  {
+    "id": 79,
+    "uuid": "79a59126-6dfb-428b-8f99-83eddb39b6e9",
+    "name": "Iraq",
+    "code": "IQ",
+    "capital": "Baghdad",
+    "region": "Asia"
+  },
+  {
+    "id": 80,
+    "uuid": "d6ffaf4a-9d11-4b72-819d-ded57c91f94d",
+    "name": "Ireland",
+    "code": "IE",
+    "capital": "Dublin",
+    "region": "Europe"
+  },
+  {
+    "id": 81,
+    "uuid": "97b87219-9862-4d42-b6e9-38b2a0c8574e",
+    "name": "Israel",
+    "code": "IL",
+    "capital": "Jerusalem",
+    "region": "Asia"
+  },
+  {
+    "id": 82,
+    "uuid": "f2cc89e5-bfc9-44e0-9c02-8ab1b4a68cbb",
+    "name": "Italy",
+    "code": "IT",
+    "capital": "Rome",
+    "region": "Europe"
+  },
+  {
+    "id": 83,
+    "uuid": "15669952-2a7a-4d94-a2b9-d0cd6c1bc189",
+    "name": "Jamaica",
+    "code": "JM",
+    "capital": "Kingston",
+    "region": "Americas"
+  },
+  {
+    "id": 84,
+    "uuid": "a15a5f6b-4197-46f9-bec6-cf808595b0e2",
+    "name": "Japan",
+    "code": "JP",
+    "capital": "Tokyo",
+    "region": "Asia"
+  },
+  {
+    "id": 85,
+    "uuid": "de0e2d97-0159-49f5-8b69-50159e29d1f7",
+    "name": "Jordan",
+    "code": "JO",
+    "capital": "Amman",
+    "region": "Asia"
+  },
+  {
+    "id": 86,
+    "uuid": "f9e6e1d5-8b88-4a44-bf88-dcbd6b53773d",
+    "name": "Kazakhstan",
+    "code": "KZ",
+    "capital": "Astana",
+    "region": "Asia"
+  },
+  {
+    "id": 87,
+    "uuid": "d3940f6f-b4c7-47a4-b2f0-b7584b7b131e",
+    "name": "Kenya",
+    "code": "KE",
+    "capital": "Nairobi",
+    "region": "Africa"
+  },
+  {
+    "id": 88,
+    "uuid": "7174b4d1-cdd9-423f-b72f-8191a5874f2f",
+    "name": "Kiribati",
+    "code": "KI",
+    "capital": "South Tarawa",
+    "region": "Oceania"
+  },
+  {
+    "id": 89,
+    "uuid": "4661b1e0-28b5-496b-b8b8-cf0497d2344b",
+    "name": "Korea, North",
+    "code": "KP",
+    "capital": "Pyongyang",
+    "region": "Asia"
+  },
+  {
+    "id": 90,
+    "uuid": "c5d158a4-ffdd-44fc-84e1-2c0be5ca7064",
+    "name": "Korea, South",
+    "code": "KR",
+    "capital": "Seoul",
+    "region": "Asia"
+  },
+  {
+    "id": 91,
+    "uuid": "fa4f45f8-fb47-4796-a6e4-3e2cc9d87bda",
+    "name": "Kuwait",
+    "code": "KW",
+    "capital": "Kuwait City",
+    "region": "Asia"
+  },
+  {
+    "id": 92,
+    "uuid": "f340a478-9d4d-4171-b54d-f7c6f8fd35b3",
+    "name": "Kyrgyzstan",
+    "code": "KG",
+    "capital": "Bishkek",
+    "region": "Asia"
+  },
+  {
+    "id": 93,
+    "uuid": "c7be2f2e-1a5f-4d2d-b982-ea2381b9d8ab",
+    "name": "Laos",
+    "code": "LA",
+    "capital": "Vientiane",
+    "region": "Asia"
+  },
+  {
+    "id": 94,
+    "uuid": "0281be95-e208-49ff-b139-e627f8ba32cd",
+    "name": "Latvia",
+    "code": "LV",
+    "capital": "Riga",
+    "region": "Europe"
+  },
+  {
+    "id": 95,
+    "uuid": "e01a5872-7f9a-44ea-bfad-d5766997c9d5",
+    "name": "Lebanon",
+    "code": "LB",
+    "capital": "Beirut",
+    "region": "Asia"
+  },
+  {
+    "id": 96,
+    "uuid": "415cc47f-9ff2-42ca-85ae-2a5f35fbcf1d",
+    "name": "Lesotho",
+    "code": "LS",
+    "capital": "Maseru",
+    "region": "Africa"
+  },
+  {
+    "id": 97,
+    "uuid": "1b02ccad-dcf6-4d28-b7b2-3d85f35fd801",
+    "name": "Liberia",
+    "code": "LR",
+    "capital": "Monrovia",
+    "region": "Africa"
+  },
+  {
+    "id": 98,
+    "uuid": "be1be63f-8b27-40f5-99b2-f55ab441f50d",
+    "name": "Libya",
+    "code": "LY",
+    "capital": "Tripoli",
+    "region": "Africa"
+  },
+  {
+    "id": 99,
+    "uuid": "45f19b8d-7f68-41b3-9095-8f70d3d2fa5e",
+    "name": "Liechtenstein",
+    "code": "LI",
+    "capital": "Vaduz",
+    "region": "Europe"
+  },
+  {
+    "id": 100,
+    "uuid": "8d10a053-cb42-4419-8d3a-607e3f4cc5ab",
+    "name": "Lithuania",
+    "code": "LT",
+    "capital": "Vilnius",
+    "region": "Europe"
+  },
+  {
+    "id": 101,
+    "uuid": "79cb1737-6434-46c0-b318-cf60b44de1a0",
+    "name": "Luxembourg",
+    "code": "LU",
+    "capital": "Luxembourg City",
+    "region": "Europe"
+  },
+  {
+    "id": 102,
+    "uuid": "289c6a8c-e7e3-48b6-bc90-85e43033c9d2",
+    "name": "Madagascar",
+    "code": "MG",
+    "capital": "Antananarivo",
+    "region": "Africa"
+  },
+  {
+    "id": 103,
+    "uuid": "b8b3c6e3-4968-4a34-b7f4-b7cf0b245c68",
+    "name": "Malawi",
+    "code": "MW",
+    "capital": "Lilongwe",
+    "region": "Africa"
+  },
+  {
+    "id": 104,
+    "uuid": "47eae78f-fb96-4375-bc69-1ff4312c4f3f",
+    "name": "Malaysia",
+    "code": "MY",
+    "capital": "Kuala Lumpur",
+    "region": "Asia"
+  },
+  {
+    "id": 105,
+    "uuid": "6b4c1492-8c85-40b0-9274-4a4c0131425b",
+    "name": "Maldives",
+    "code": "MV",
+    "capital": "Malé",
+    "region": "Asia"
+  },
+  {
+    "id": 106,
+    "uuid": "4075b7e5-19a0-45c7-a7b4-f5da8f4ef72a",
+    "name": "Mali",
+    "code": "ML",
+    "capital": "Bamako",
+    "region": "Africa"
+  },
+  {
+    "id": 107,
+    "uuid": "544d0fbc-1e04-4609-978d-9c8088f5a923",
+    "name": "Malta",
+    "code": "MT",
+    "capital": "Valletta",
+    "region": "Europe"
+  },
+  {
+    "id": 108,
+    "uuid": "1ccf2555-4b77-4c6b-a520-c6caa3f72e9f",
+    "name": "Marshall Islands",
+    "code": "MH",
+    "capital": "Majuro",
+    "region": "Oceania"
+  },
+  {
+    "id": 109,
+    "uuid": "285594b7-12ff-4b6e-aebd-e12ad1b155cf",
+    "name": "Mauritania",
+    "code": "MR",
+    "capital": "Nouakchott",
+    "region": "Africa"
+  },
+  {
+    "id": 110,
+    "uuid": "b3f6e678-f4f2-4a25-8724-77239fe0f22c",
+    "name": "Mauritius",
+    "code": "MU",
+    "capital": "Port Louis",
+    "region": "Africa"
+  },
+  {
+    "id": 111,
+    "uuid": "4d274cb0-8d74-421e-883b-9b7caa58a878",
+    "name": "Mexico",
+    "code": "MX",
+    "capital": "Mexico City",
+    "region": "Americas"
+  },
+  {
+    "id": 112,
+    "uuid": "8a7c4b9f-9c47-48db-bda4-826375b03dbb",
+    "name": "Micronesia",
+    "code": "FM",
+    "capital": "Palikir",
+    "region": "Oceania"
+  },
+  {
+    "id": 113,
+    "uuid": "e91bdbbe-d8a1-46d1-84e7-6b11c3ea6609",
+    "name": "Moldova",
+    "code": "MD",
+    "capital": "Chisinau",
+    "region": "Europe"
+  },
+  {
+    "id": 114,
+    "uuid": "fc76b2ba-1e44-4873-9d1b-90b2e1cfab16",
+    "name": "Monaco",
+    "code": "MC",
+    "capital": "Monaco",
+    "region": "Europe"
+  },
+  {
+    "id": 115,
+    "uuid": "f02b1a63-7398-4e8b-b33d-c2ab5bfb7a8a",
+    "name": "Mongolia",
+    "code": "MN",
+    "capital": "Ulaanbaatar",
+    "region": "Asia"
+  },
+  {
+    "id": 116,
+    "uuid": "80e1a453-d5fc-418f-9791-bba1c88d2be3",
+    "name": "Montenegro",
+    "code": "ME",
+    "capital": "Podgorica",
+    "region": "Europe"
+  },
+  {
+    "id": 117,
+    "uuid": "d3ec6821-9863-4d0d-b709-504f40197e72",
+    "name": "Morocco",
+    "code": "MA",
+    "capital": "Rabat",
+    "region": "Africa"
+  },
+  {
+    "id": 118,
+    "uuid": "02a05714-9909-4b30-8758-bcf7d84583b1",
+    "name": "Mozambique",
+    "code": "MZ",
+    "capital": "Maputo",
+    "region": "Africa"
+  },
+  {
+    "id": 119,
+    "uuid": "459e1b8b-6255-41e3-b759-23ac88ec2c76",
+    "name": "Myanmar",
+    "code": "MM",
+    "capital": "Naypyidaw",
+    "region": "Asia"
+  },
+  {
+    "id": 120,
+    "uuid": "1d6a5682-bc10-4202-b63f-2763b7b8e148",
+    "name": "Namibia",
+    "code": "NA",
+    "capital": "Windhoek",
+    "region": "Africa"
+  },
+  {
+    "id": 121,
+    "uuid": "75e3e106-b8b1-42f5-9a4c-61d0b00fc6a0",
+    "name": "Nauru",
+    "code": "NR",
+    "capital": "Yaren",
+    "region": "Oceania"
+  },
+  {
+    "id": 122,
+    "uuid": "a3f05a90-8889-4a94-a906-ff8a9b6a8205",
+    "name": "Nepal",
+    "code": "NP",
+    "capital": "Kathmandu",
+    "region": "Asia"
+  },
+  {
+    "id": 123,
+    "uuid": "5a0c2789-c8b7-4ed4-8c4d-f14a9b204a9f",
+    "name": "Netherlands",
+    "code": "NL",
+    "capital": "Amsterdam",
+    "region": "Europe"
+  },
+  {
+    "id": 124,
+    "uuid": "544ca3ea-cb72-4e24-b9e0-0102ab325de1",
+    "name": "New Zealand",
+    "code": "NZ",
+    "capital": "Wellington",
+    "region": "Oceania"
+  },
+  {
+    "id": 125,
+    "uuid": "845dbe26-8e3a-4625-b28e-50c8e5d2d8b2",
+    "name": "Nicaragua",
+    "code": "NI",
+    "capital": "Managua",
+    "region": "Americas"
+  },
+  {
+    "id": 126,
+    "uuid": "0ae1c944-d2a9-466b-a697-32cc3c48296f",
+    "name": "Niger",
+    "code": "NE",
+    "capital": "Niamey",
+    "region": "Africa"
+  },
+  {
+    "id": 127,
+    "uuid": "e226d5ad-9f38-4233-a3a9-3ffb16ca43b2",
+    "name": "Nigeria",
+    "code": "NG",
+    "capital": "Abuja",
+    "region": "Africa"
+  },
+  {
+    "id": 128,
+    "uuid": "6eae9746-d56f-452d-b4ff-4b028f5d14cc",
+    "name": "North Macedonia",
+    "code": "MK",
+    "capital": "Skopje",
+    "region": "Europe"
+  },
+  {
+    "id": 129,
+    "uuid": "9b28a983-e5bc-4d7e-8d7a-c7bc8b0860ba",
+    "name": "Norway",
+    "code": "NO",
+    "capital": "Oslo",
+    "region": "Europe"
+  },
+  {
+    "id": 130,
+    "uuid": "dbd11809-3254-4c0a-b74d-c1ac2f50e218",
+    "name": "Oman",
+    "code": "OM",
+    "capital": "Muscat",
+    "region": "Asia"
+  },
+  {
+    "id": 131,
+    "uuid": "bd937df5-2728-4685-b2e5-c469b3e0b6cc",
+    "name": "Pakistan",
+    "code": "PK",
+    "capital": "Islamabad",
+    "region": "Asia"
+  },
+  {
+    "id": 132,
+    "uuid": "d95ff089-f163-4561-81a1-6c4e7ae04fdb",
+    "name": "Palau",
+    "code": "PW",
+    "capital": "Ngerulmud",
+    "region": "Oceania"
+  },
+  {
+    "id": 133,
+    "uuid": "e17d2596-d14f-4e96-9eb0-9a05c0f81c64",
+    "name": "Panama",
+    "code": "PA",
+    "capital": "Panama City",
+    "region": "Americas"
+  },
+  {
+    "id": 134,
+    "uuid": "f0095b60-d2db-48be-9c8e-19b1bda5e5e5",
+    "name": "Papua New Guinea",
+    "code": "PG",
+    "capital": "Port Moresby",
+    "region": "Oceania"
+  },
+  {
+    "id": 135,
+    "uuid": "4b68d6b9-4f9a-42b0-bd02-9f2cc8a4502b",
+    "name": "Paraguay",
+    "code": "PY",
+    "capital": "Asunción",
+    "region": "Americas"
+  },
+  {
+    "id": 136,
+    "uuid": "22594639-1558-4235-9b8f-08ffcd8f61fc",
+    "name": "Peru",
+    "code": "PE",
+    "capital": "Lima",
+    "region": "Americas"
+  },
+  {
+    "id": 137,
+    "uuid": "8ef3e463-f503-49b4-95d7-179cb97b0ed9",
+    "name": "Philippines",
+    "code": "PH",
+    "capital": "Manila",
+    "region": "Asia"
+  },
+  {
+    "id": 138,
+    "uuid": "0ccfd08b-d8b2-44d3-9750-f6a4b4436cb4",
+    "name": "Poland",
+    "code": "PL",
+    "capital": "Warsaw",
+    "region": "Europe"
+  },
+  {
+    "id": 139,
+    "uuid": "00e1c621-7345-4d89-81ca-001b7a43856a",
+    "name": "Portugal",
+    "code": "PT",
+    "capital": "Lisbon",
+    "region": "Europe"
+  },
+  {
+    "id": 140,
+    "uuid": "540d6023-e446-4e94-b4a3-83f72f2e3403",
+    "name": "Qatar",
+    "code": "QA",
+    "capital": "Doha",
+    "region": "Asia"
+  },
+  {
+    "id": 141,
+    "uuid": "d5e58f6d-3a11-4f13-bb84-e11e653b6f15",
+    "name": "Romania",
+    "code": "RO",
+    "capital": "Bucharest",
+    "region": "Europe"
+  },
+  {
+    "id": 142,
+    "uuid": "c3f506ea-ecf0-46f0-b76a-cf6da423bc8b",
+    "name": "Russia",
+    "code": "RU",
+    "capital": "Moscow",
+    "region": "Europe"
+  },
+  {
+    "id": 143,
+    "uuid": "8f88f4b3-fbf9-4746-91ac-357c724f8c53",
+    "name": "Rwanda",
+    "code": "RW",
+    "capital": "Kigali",
+    "region": "Africa"
+  },
+  {
+    "id": 144,
+    "uuid": "40179916-e52d-4792-8724-2091b85cd9bc",
+    "name": "Saint Kitts and Nevis",
+    "code": "KN",
+    "capital": "Basseterre",
+    "region": "Americas"
+  },
+  {
+    "id": 145,
+    "uuid": "244c9277-c74f-496a-b858-16f813c42190",
+    "name": "Saint Lucia",
+    "code": "LC",
+    "capital": "Castries",
+    "region": "Americas"
+  },
+  {
+    "id": 146,
+    "uuid": "cc2c8274-4b38-46be-94fc-9d5394d4b8ed",
+    "name": "Saint Vincent and the Grenadines",
+    "code": "VC",
+    "capital": "Kingstown",
+    "region": "Americas"
+  },
+  {
+    "id": 147,
+    "uuid": "7c17a001-f76b-44d7-a7b6-42d8d41160b6",
+    "name": "Samoa",
+    "code": "WS",
+    "capital": "Apia",
+    "region": "Oceania"
+  },
+  {
+    "id": 148,
+    "uuid": "607c16ae-2252-4f1e-b1c9-15b6c299efb2",
+    "name": "San Marino",
+    "code": "SM",
+    "capital": "San Marino",
+    "region": "Europe"
+  },
+  {
+    "id": 149,
+    "uuid": "3b781dc2-557f-4d8a-bcfa-7d24b2a6a6db",
+    "name": "Sao Tome and Principe",
+    "code": "ST",
+    "capital": "São Tomé",
+    "region": "Africa"
+  },
+  {
+    "id": 150,
+    "uuid": "d90ed2ca-b2a3-46ac-b1fd-8e2e1b33f31f",
+    "name": "Saudi Arabia",
+    "code": "SA",
+    "capital": "Riyadh",
+    "region": "Asia"
+  },
+  {
+    "id": 151,
+    "uuid": "81056f07-bbc1-46bb-9bc2-3be0ff1a06e7",
+    "name": "Senegal",
+    "code": "SN",
+    "capital": "Dakar",
+    "region": "Africa"
+  },
+  {
+    "id": 152,
+    "uuid": "2d79c09d-4f34-4207-b2a9-bb3e99a03b29",
+    "name": "Serbia",
+    "code": "RS",
+    "capital": "Belgrade",
+    "region": "Europe"
+  },
+  {
+    "id": 153,
+    "uuid": "b2f21b0b-6883-4b57-bac0-2e95194b8fa7",
+    "name": "Seychelles",
+    "code": "SC",
+    "capital": "Victoria",
+    "region": "Africa"
+  },
+  {
+    "id": 154,
+    "uuid": "67c8ff95-b035-44d0-b465-5e436107e60b",
+    "name": "Sierra Leone",
+    "code": "SL",
+    "capital": "Freetown",
+    "region": "Africa"
+  },
+  {
+    "id": 155,
+    "uuid": "f59b80cc-9d2c-4204-9bb1-57f216312000",
+    "name": "Singapore",
+    "code": "SG",
+    "capital": "Singapore",
+    "region": "Asia"
+  },
+  {
+    "id": 156,
+    "uuid": "5c9abaf8-7e52-4285-8b7d-06b4239b67c3",
+    "name": "Slovakia",
+    "code": "SK",
+    "capital": "Bratislava",
+    "region": "Europe"
+  },
+  {
+    "id": 157,
+    "uuid": "e7dfdd4a-38c1-4a92-b7f4-df77cb7d8ea6",
+    "name": "Slovenia",
+    "code": "SI",
+    "capital": "Ljubljana",
+    "region": "Europe"
+  },
+  {
+    "id": 158,
+    "uuid": "f2b9925d-6b55-4177-bd0e-18d79e3b1153",
+    "name": "Solomon Islands",
+    "code": "SB",
+    "capital": "Honiara",
+    "region": "Oceania"
+  },
+  {
+    "id": 159,
+    "uuid": "617edce5-58fa-4ed9-b489-587c6e65e1be",
+    "name": "Somalia",
+    "code": "SO",
+    "capital": "Mogadishu",
+    "region": "Africa"
+  },
+  {
+    "id": 160,
+    "uuid": "9a349432-bc51-4e43-8b95-36404d29b842",
+    "name": "South Africa",
+    "code": "ZA",
+    "capital": "Pretoria",
+    "region": "Africa"
+  },
+  {
+    "id": 161,
+    "uuid": "6b82cba3-5c6b-45d7-bf1e-97da5d72055b",
+    "name": "South Sudan",
+    "code": "SS",
+    "capital": "Juba",
+    "region": "Africa"
+  },
+  {
+    "id": 162,
+    "uuid": "d505c497-b206-47ad-ae39-95309b3a0d1d",
+    "name": "Spain",
+    "code": "ES",
+    "capital": "Madrid",
+    "region": "Europe"
+  },
+  {
+    "id": 163,
+    "uuid": "66c0ecb3-cd8e-46bb-89c3-30e8e9f3f1ac",
+    "name": "Sri Lanka",
+    "code": "LK",
+    "capital": "Colombo",
+    "region": "Asia"
+  },
+  {
+    "id": 164,
+    "uuid": "3e5ad5b3-84e9-401a-93d9-94d4b0407ae1",
+    "name": "Sudan",
+    "code": "SD",
+    "capital": "Khartoum",
+    "region": "Africa"
+  },
+  {
+    "id": 165,
+    "uuid": "cc82d48f-3d35-44f1-9a18-d0e5ff67440e",
+    "name": "Suriname",
+    "code": "SR",
+    "capital": "Paramaribo",
+    "region": "Americas"
+  },
+  {
+    "id": 166,
+    "uuid": "7b99212b-9ca8-406f-89e6-fbc0b42eb13d",
+    "name": "Sweden",
+    "code": "SE",
+    "capital": "Stockholm",
+    "region": "Europe"
+  },
+  {
+    "id": 167,
+    "uuid": "ae9f0b45-b97a-479f-a8cc-bc3a1f043349",
+    "name": "Switzerland",
+    "code": "CH",
+    "capital": "Bern",
+    "region": "Europe"
+  },
+  {
+    "id": 168,
+    "uuid": "8a67916f-b90f-4d4a-bf23-5cd0a261e5d9",
+    "name": "Syria",
+    "code": "SY",
+    "capital": "Damascus",
+    "region": "Asia"
+  },
+  {
+    "id": 169,
+    "uuid": "8399e9ed-2746-4969-bf13-465b5e56e42d",
+    "name": "Taiwan",
+    "code": "TW",
+    "capital": "Taipei",
+    "region": "Asia"
+  },
+  {
+    "id": 170,
+    "uuid": "3d4c42b8-8a19-4cf6-a3b7-1e2700e397b4",
+    "name": "Tajikistan",
+    "code": "TJ",
+    "capital": "Dushanbe",
+    "region": "Asia"
+  },
+  {
+    "id": 171,
+    "uuid": "81dfab29-979d-43c6-a3a9-d5e4e5e2f6b7",
+    "name": "Tanzania",
+    "code": "TZ",
+    "capital": "Dodoma",
+    "region": "Africa"
+  },
+  {
+    "id": 172,
+    "uuid": "d7f2ffb4-c63e-490b-b7b1-cf263bf7ac60",
+    "name": "Thailand",
+    "code": "TH",
+    "capital": "Bangkok",
+    "region": "Asia"
+  },
+  {
+    "id": 173,
+    "uuid": "937ed906-b0b2-43d3-8ff0-d39890d88a0b",
+    "name": "Togo",
+    "code": "TG",
+    "capital": "Lomé",
+    "region": "Africa"
+  },
+  {
+    "id": 174,
+    "uuid": "f3c78d43-1f53-4e77-8f38-32dba40c9b0e",
+    "name": "Tonga",
+    "code": "TO",
+    "capital": "Nukuʻalofa",
+    "region": "Oceania"
+  },
+  {
+    "id": 175,
+    "uuid": "a719d066-f828-48fa-bd04-c0d57b0884b4",
+    "name": "Trinidad and Tobago",
+    "code": "TT",
+    "capital": "Port of Spain",
+    "region": "Americas"
+  },
+  {
+    "id": 176,
+    "uuid": "0fbd5f0f-23a5-42d7-8eb3-76b98fc58e6d",
+    "name": "Tunisia",
+    "code": "TN",
+    "capital": "Tunis",
+    "region": "Africa"
+  },
+  {
+    "id": 177,
+    "uuid": "41c9c839-bf7b-4c8b-a3d3-4b84b68b4e7a",
+    "name": "Turkey",
+    "code": "TR",
+    "capital": "Ankara",
+    "region": "Asia"
+  },
+  {
+    "id": 178,
+    "uuid": "56b01d60-c515-4b6f-8836-c97131e9ec84",
+    "name": "Turkmenistan",
+    "code": "TM",
+    "capital": "Ashgabat",
+    "region": "Asia"
+  },
+  {
+    "id": 179,
+    "uuid": "2e34a344-0fa0-4654-9b0a-5b8fce6e2997",
+    "name": "Tuvalu",
+    "code": "TV",
+    "capital": "Funafuti",
+    "region": "Oceania"
+  },
+  {
+    "id": 180,
+    "uuid": "28f42d91-1f99-4111-bb42-4ca49a85b8d4",
+    "name": "Uganda",
+    "code": "UG",
+    "capital": "Kampala",
+    "region": "Africa"
+  },
+  {
+    "id": 181,
+    "uuid": "92820d89-e6b7-42d7-9b26-40a4d072bb26",
+    "name": "Ukraine",
+    "code": "UA",
+    "capital": "Kyiv",
+    "region": "Europe"
+  },
+  {
+    "id": 182,
+    "uuid": "706f46f9-bb7f-4783-883b-b2b4e6a8f146",
+    "name": "United Arab Emirates",
+    "code": "AE",
+    "capital": "Abu Dhabi",
+    "region": "Asia"
+  },
+  {
+    "id": 183,
+    "uuid": "b039b2f6-b27f-4316-8de9-f54202be2094",
+    "name": "United Kingdom",
+    "code": "GB",
+    "capital": "London",
+    "region": "Europe"
+  },
+  {
+    "id": 184,
+    "uuid": "2be3c6db-2a6a-4b2e-99cd-cb92b14178fc",
+    "name": "United States",
+    "code": "US",
+    "capital": "Washington, D.C.",
+    "region": "Americas"
+  },
+  {
+    "id": 185,
+    "uuid": "2f586c1f-23f6-4d70-8004-2ed7fa8f8014",
+    "name": "Uruguay",
+    "code": "UY",
+    "capital": "Montevideo",
+    "region": "Americas"
+  },
+  {
+    "id": 186,
+    "uuid": "ff1b9a51-d771-4388-bba4-5063d4d50b4a",
+    "name": "Uzbekistan",
+    "code": "UZ",
+    "capital": "Tashkent",
+    "region": "Asia"
+  },
+  {
+    "id": 187,
+    "uuid": "68d2644d-5a62-42b2-9ab1-107762028bb0",
+    "name": "Vanuatu",
+    "code": "VU",
+    "capital": "Port Vila",
+    "region": "Oceania"
+  },
+  {
+    "id": 188,
+    "uuid": "3759fbd3-413e-4f89-9e9d-03d0591608b2",
+    "name": "Vatican City",
+    "code": "VA",
+    "capital": "Vatican City",
+    "region": "Europe"
+  },
+  {
+    "id": 189,
+    "uuid": "1f9fbd5a-1203-4b70-b3c7-18d0581b1ca7",
+    "name": "Venezuela",
+    "code": "VE",
+    "capital": "Caracas",
+    "region": "Americas"
+  },
+  {
+    "id": 190,
+    "uuid": "6c3d4981-2295-4fd2-8e35-d6995a75000a",
+    "name": "Vietnam",
+    "code": "VN",
+    "capital": "Hanoi",
+    "region": "Asia"
+  },
+  {
+    "id": 191,
+    "uuid": "a198e7c9-27ac-471f-a050-799f4b1be06e",
+    "name": "Yemen",
+    "code": "YE",
+    "capital": "Sana'a",
+    "region": "Asia"
+  },
+  {
+    "id": 192,
+    "uuid": "00ac42f7-70d4-46bb-aef7-3b90691e3120",
+    "name": "Zambia",
+    "code": "ZM",
+    "capital": "Lusaka",
+    "region": "Africa"
+  },
+  {
+    "id": 193,
+    "uuid": "f5fcf56d-b09e-4b6e-b617-1cd31ab3e809",
+    "name": "Zimbabwe",
+    "code": "ZW",
+    "capital": "Harare",
+    "region": "Africa"
+  }
+]
+
