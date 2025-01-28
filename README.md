@@ -1,5 +1,7 @@
 # Data collections
 
+Includes collections for API mocking
+
 - Geography
   - Capitals
   - Countries
@@ -11,3 +13,4 @@
   - Users
 - Social-media
   - Posts
+
